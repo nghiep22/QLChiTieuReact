@@ -1,17 +1,12 @@
 
 # Web Quản Lý Bán Đồ Dùng Học Tập
-
-## 1. Giới thiệu
-
+# 1. Giới thiệu
 Web quản lý bán đồ dùng học tập là hệ thống giúp cửa hàng theo dõi và quản lý các hoạt động kinh doanh hằng ngày.
 
 Ứng dụng giúp quản lý sản phẩm, kho hàng, đơn hàng, khách hàng và nhân viên. Hệ thống hỗ trợ ghi nhận quá trình nhập hàng, bán hàng và cung cấp các báo cáo thống kê để theo dõi tình hình kinh doanh.
 
 Nhờ đó, người dùng có thể kiểm soát hàng hóa, doanh thu và vận hành cửa hàng hiệu quả hơn.
-
-
-
-## 2. Chức năng chính
+# 2. Chức năng chính
 
 Hệ thống cung cấp các chức năng quản lý bán hàng cơ bản.
 
