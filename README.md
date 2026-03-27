@@ -12,7 +12,7 @@ Web quản lý bán đồ dùng học tập là hệ thống giúp cửa hàng t
 
 Nhờ đó, người dùng có thể kiểm soát hàng hóa, doanh thu và vận hành cửa hàng hiệu quả hơn.
 
----
+
 
 ## 2. Chức năng chính
 
@@ -78,7 +78,7 @@ Hệ thống hỗ trợ
 
 Kết quả được hiển thị dưới dạng bảng dữ liệu hoặc biểu đồ
 
----
+
 
 ## 3. Cách hoạt động của hệ thống
 
@@ -90,7 +90,7 @@ Kết quả được hiển thị dưới dạng bảng dữ liệu hoặc biể
 6. Khi nhập hàng hệ thống tự động cộng số lượng vào kho
 7. Kết quả được hiển thị dưới dạng bảng hoặc báo cáo để người dùng theo dõi
 
----
+
 
 ## 4. Phân quyền người dùng
 
@@ -138,7 +138,7 @@ Hạn chế
 * Không được quản lý sản phẩm
 * Không được truy cập dữ liệu hệ thống
 
----
+
 
 ## 5. Vai trò của hệ thống
 
@@ -156,7 +156,7 @@ Các thông tin được xử lý bao gồm
 * Doanh thu bán hàng
 * Số lượng sản phẩm bán ra
 
----
+
 
 ## 6. Mục tiêu của hệ thống
 
@@ -165,6 +165,5 @@ Các thông tin được xử lý bao gồm
 * Giảm thất thoát và sai sót
 * Theo dõi doanh thu rõ ràng
 * Hỗ trợ phát triển kinh doanh
-
----
+https://docs.google.com/document/d/1x74oEznlx0FSXscAhjWCqXMWDU2oPpWL/edit?usp=sharing&ouid=118364669253315725744&rtpof=true&sd=true
 
